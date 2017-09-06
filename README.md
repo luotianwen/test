@@ -27,3 +27,9 @@ git push -u origin master
 
 
 git config --global color.ui true
+
+ git remote add origin git@github.com:luotianwen/test.git；
+
+ git push -u origin master 
+
+ git push origin master 
