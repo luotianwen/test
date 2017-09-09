@@ -33,3 +33,9 @@ git config --global color.ui true
  git push -u origin master 
 
  git push origin master 
+ 
+gui
+1 ssh key
+2 setting password
+3create 
+4push git@github.com:luotianwen/test.git
